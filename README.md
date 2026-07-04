@@ -24,10 +24,10 @@ Determinar qué tarifa de prepago (Surf o Ultimate) genera más ingresos para Me
 
 ## Tecnologías utilizadas
 
-Python
-Pandas / NumPy — manipulación, limpieza y agregación de datos
-Matplotlib / Seaborn — visualización de datos
-SciPy — pruebas de hipótesis estadísticas (t-test)
+- Python
+- Pandas / NumPy — manipulación, limpieza y agregación de datos
+- Matplotlib / Seaborn — visualización de datos
+- SciPy — pruebas de hipótesis estadísticas (t-test)
 
 
 ## Principales hallazgos
