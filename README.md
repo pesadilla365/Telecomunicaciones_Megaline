@@ -57,7 +57,7 @@ Determinar qué tarifa de prepago (Surf o Ultimate) genera más ingresos para Me
 
 ## Cómo ejecutar el proyecto
 
-1. git clone [<url-del-repo>](https://github.com/pesadilla365/Telecomunicaciones_Megaline)
+1. git clone https://github.com/pesadilla365/Telecomunicaciones_Megaline
 2. cd Telecomunicaciones_Megaline
 3. pip install -r requirements.txt
 4. jupyter notebook notebook_proyecto.ipynb
