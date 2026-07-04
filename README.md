@@ -57,10 +57,10 @@ Determinar qué tarifa de prepago (Surf o Ultimate) genera más ingresos para Me
 
 ## Cómo ejecutar el proyecto
 
-git clone <url-del-repo>
-cd <nombre-del-repo>
-pip install -r requirements.txt
-jupyter notebook notebook_proyecto.ipynb
+1. git clone <url-del-repo>
+2. cd <nombre-del-repo>
+3. pip install -r requirements.txt
+4. jupyter notebook notebook_proyecto.ipynb
 
 Los datos utilizados (megaline_users.csv, megaline_calls.csv, megaline_messages.csv, megaline_internet.csv, megaline_plans.csv) deben colocarse en el directorio del proyecto para que el notebook los lea correctamente.
 
