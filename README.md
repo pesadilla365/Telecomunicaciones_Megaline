@@ -57,7 +57,7 @@ Determinar qué tarifa de prepago (Surf o Ultimate) genera más ingresos para Me
 
 ## Cómo ejecutar el proyecto
 
-bashgit clone <url-del-repo>
+git clone <url-del-repo>
 cd <nombre-del-repo>
 pip install -r requirements.txt
 jupyter notebook notebook_proyecto.ipynb
